@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="febf7a9a-d2e0-4065-a05e-b3ed4e4b04c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/constants/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/pages/UaGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/SecondTest.java" afterDir="false" />
+    <list default="true" id="febf7a9a-d2e0-4065-a05e-b3ed4e4b04c1" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classes/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classes/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/FirstTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +49,7 @@
       <recent name="G:\Generate\src\main\java\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FirstTest">
+  <component name="RunManager" selected="TestNG.FirstTest.test">
     <configuration name="FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Generate" />
       <extension name="coverage">
@@ -111,11 +102,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Generate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SecondTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FirstTest.test" />
+        <item itemvalue="TestNG.SecondTest.test" />
         <item itemvalue="TestNG.FirstTest" />
         <item itemvalue="TestNG.SecondTest" />
-        <item itemvalue="TestNG.FirstTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -128,11 +138,23 @@
       <option name="presentableId" value="Default" />
       <updated>1687524536901</updated>
       <workItem from="1687524537945" duration="4432000" />
-      <workItem from="1687612434914" duration="28663000" />
+      <workItem from="1687612434914" duration="35592000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1687771669134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687771669134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
