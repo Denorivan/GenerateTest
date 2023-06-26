@@ -6,7 +6,6 @@ import com.codeborne.selenide.SelenideElement;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$x;
 
 public class MainPage {
